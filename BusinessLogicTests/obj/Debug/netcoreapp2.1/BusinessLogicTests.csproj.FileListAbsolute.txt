@@ -1,0 +1,38 @@
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.deps.json
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.runtimeconfig.json
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.runtimeconfig.dev.json
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.dll
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.pdb
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\Shared.dll
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\bin\Debug\netcoreapp2.1\Shared.pdb
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.csprojAssemblyReference.cache
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.csproj.CoreCompileInputs.cache
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.AssemblyInfoInputs.cache
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.AssemblyInfo.cs
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.csproj.CopyComplete
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.dll
+C:\Users\MGolemiec\source\repos\Innergy task\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.pdb
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.deps.json
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.runtimeconfig.json
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.runtimeconfig.dev.json
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.dll
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogicTests.pdb
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\Shared.dll
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\bin\Debug\netcoreapp2.1\Shared.pdb
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.csprojAssemblyReference.cache
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.csproj.CoreCompileInputs.cache
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.AssemblyInfoInputs.cache
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.AssemblyInfo.cs
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.csproj.CopyComplete
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.dll
+C:\Users\MGolemiec\Documents\GitHub\InnergyTask\BusinessLogicTests\obj\Debug\netcoreapp2.1\BusinessLogicTests.pdb
